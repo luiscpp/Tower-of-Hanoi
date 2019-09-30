@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/images">
+        <file>background.png</file>
+        <file>front.png</file>
+        <file>icon.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>backgroundSound.mp3</file>
+        <file>buttonPressedSound.mp3</file>
+        <file>hoverButtonSound.mp3</file>
+        <file>wellDoneSound.mp3</file>
+        <file>invalidMovementSound.mp3</file>
+        <file>moveDiskSound.mp3</file>
+    </qresource>
+</RCC>
